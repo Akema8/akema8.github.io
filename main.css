@@ -8,8 +8,11 @@
 }
 
 header,section {
-  background-color: peru;
   display: block;
+}
+
+header {
+    background-color: peru;
 }
 
 body {
