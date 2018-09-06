@@ -5,10 +5,10 @@
   font-size: 100%;
   font: inherit;
   vertical-align: baseline;
+  background-color: peru;
 }
 
 section {
-  background-color: peru;
   display: block;
 }
 
