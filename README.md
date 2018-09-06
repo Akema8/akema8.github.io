@@ -4,7 +4,7 @@
 
 [аккаунт](https://github.com/Akema8)
 
-[репозиторий]https://github.com/Akema8/akema8.github.io
+[репозиторий](https://github.com/Akema8/akema8.github.io)
 
-[отчет]https://github.com/Akema8/akema8.github.io/blob/master/report
+[отчет](https://github.com/Akema8/akema8.github.io/blob/master/report)
 
