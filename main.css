@@ -1,4 +1,4 @@
-html,body,div,h1,h2,h3,h4,h5,h6,p,a,ol,ul,li,header,section {
+* {
   margin: 0;
   padding: 0;
   border: 0;
@@ -7,7 +7,8 @@ html,body,div,h1,h2,h3,h4,h5,h6,p,a,ol,ul,li,header,section {
   vertical-align: baseline;
 }
 
-footer,header,section {
+header,section {
+  background-color: peru;
   display: block;
 }
 
