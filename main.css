@@ -5,12 +5,12 @@
   font-size: 100%;
   font: inherit;
   vertical-align: baseline;
-  background-color: peru;
 }
 
 section {
   display: block;
 }
+
 
 body {
   line-height: 1;
@@ -35,6 +35,9 @@ body {
 }
 
 .container {
+     background-image: url('http://i2.beon.ru/86/12/31286/52/44769052/141.gif');
+  background-repeat: repeat;
+  background-attachment: scroll;
   margin-left: auto;
   margin-right: auto;
   padding-left: 10%;
@@ -42,6 +45,9 @@ body {
 }
 
 .container {
+  	   background-image: url('http://i97.ltalk.ru/84/69/436984/31/12893731/6.png');
+  background-repeat: repeat;
+  background-attachment: scroll;
   width: 100%;
 }
 
