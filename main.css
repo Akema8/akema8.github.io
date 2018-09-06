@@ -12,12 +12,6 @@ section {
   display: block;
 }
 
-
-
-body {
-
-}
-
 ol {
   list-style: decimal;
 }
@@ -37,7 +31,7 @@ body {
 }
 
 .container {
-	   background-image: url('http://i97.ltalk.ru/84/69/436984/31/12893731/6.png');
+  background-image: url('http://i97.ltalk.ru/84/69/436984/31/12893731/6.png');
   background-repeat: repeat;
   background-attachment: scroll;
   margin-left: auto;
