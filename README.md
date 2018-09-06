@@ -9,5 +9,4 @@
 
 [репозиторий](https://github.com/Akema8/akema8.github.io)
 
-[отчет](https://github.com/Akema8/akema8.github.io/blob/master/report)
 
